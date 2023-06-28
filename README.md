@@ -1,4 +1,4 @@
-# H4CK Instagram News 2020 
+# H4CK Instagram News
 UPDATED DAILY!
 <br>
 <br>
