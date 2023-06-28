@@ -11,12 +11,12 @@ Bruteforce adalah sebuah metode meretas password dengan menggunakan sebuah wordl
 Langsung saja kita ke tutorial bagaimana cara hack akun instagram dengan metode bruteforce di termux :
 1. Buka aplikasi termux kalian.
 2. Install terlebih dahulu python, python2, dan git dengan menggunakan perintah :
--apt-get install python && apt-get install python2 && apt install git
+apt-get install python && apt-get install python2 && apt install git
 3. Selanjutnya silahkan kalian buka kembali termux lalu pergi ke penyimpanan internal kalian dengan perintah :
 -cd /sdcard
 Catatan ! : Jika kalian belum mengizinkan termux mengakses penyimpanan internal kalian silahkan lakukan perintah berikut, termux-setup-storage
-git clone https://github.com/ahmadchen/Instagram-h4cknew.git
-cd Instagram-h4cknew
+git clone https://github.com/Eemmsss/HackIG.git
+cd HackIG
 4. Sebelum menjalankan tools tersebut mari kita buat wordlis terlebih dahulu dengan menggunakan perintah :
 python kunci.py
 Catatan ! : Silahkan kalian isi password wordlistnya dengan sesuka hati kalian
