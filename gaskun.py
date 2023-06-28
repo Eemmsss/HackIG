@@ -178,7 +178,7 @@ for password in instabrute.passwords:
 	sess = instabrute.Login(password)
 	if sess:
                 print(C)
-       		print ('[*] Login Hacked Successfully!!! [%s]' % [instabrute.username],[password])
+       		print ('[* Login Hacked Successfully!!! %s]' % [instabrute.username],[password])
 	else:
                 print(D)
 		print ('[*] Connect ======> [%s]' % password)
